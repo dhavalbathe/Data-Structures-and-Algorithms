@@ -1,0 +1,3 @@
+hello, this is the sample text lines.
+we are demonstrating file operations in c++.
+This line is appended in the file
